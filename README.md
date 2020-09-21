@@ -1,5 +1,5 @@
 # HarvardX_Using_Python_for_Research
-# This repository is for saving the course exercises and answers of the HarvardX 'Using Python for Research' program on edX. 
+This repository is for saving the course exercises and answers of the HarvardX 'Using Python for Research' program on edX. 
 # The chapters include: 
 # 1) Basics of Python 3
 # 2) Python Libraries and Concepts Used in Research
